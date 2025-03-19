@@ -1,0 +1,16 @@
+#ifndef _MAIN_RC_
+#define _MAIN_RC_
+
+#include "main.h"
+
+ICO_MAIN ICON "SL.ico"
+
+DLG_MAIN DIALOGEX 0,0,320,240
+CAPTION PROG_NAME
+FONT 8,"MS Sans Serif"
+STYLE 0x10ca0800
+EXSTYLE 0x00000000
+{
+}
+
+#endif
