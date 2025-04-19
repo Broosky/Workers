@@ -28,4 +28,4 @@ This app was one of the earliest experiments in the *Gatherers* series, built du
 
 ## ⚙️ **Windows Instructions**
 
-After adjusting the linker settings, you can compile and run the app on Windows 11 using **Dev-C++** and **MinGW**. Simply follow the instructions [Here](https://bloodshed.net/) to set up the environment.
+After adjusting the linker settings, you can compile and run the app on Windows 11 using **Dev-C++** and **MinGW**. Simply follow the instructions [here](https://bloodshed.net/) to set up the environment.
