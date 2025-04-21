@@ -1,6 +1,6 @@
 # 🛠️ **Workers**
 
-This is a proof-of-concept app for the **Gatherers-Historic** repo that I rediscovered on an old drive. I’m adding it here for sentimental value and to share the very early stages of the project!
+This is a proof-of-concept app for the [Gatherers-Historic](https://github.com/Broosky/Gatherers-Historic) repo that I rediscovered on an old drive. I’m adding it here for sentimental value and to share the very early stages of the project!
 
 ---
 
