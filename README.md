@@ -2,13 +2,12 @@
 
 This is a proof-of-concept app for the [Gatherers-Legacy](https://github.com/Broosky/Gatherers-Legacy) repo that I rediscovered on an old drive. I’m adding it here for sentimental value and to share the very early stages of the project!
 
----
+> If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
+> It helps others discover the project and motivates me to keep building and sharing more.
 
 ## 🔹 **In Action**
 
 ![Demo](Workers.gif)
-
----
 
 ## 🔹 **Key Features**
 
@@ -17,8 +16,6 @@ This is a proof-of-concept app for the [Gatherers-Legacy](https://github.com/Bro
 
 - **Basic Traversal**  
   Implements programmatic destinations, using basic linear algebra to move units along paths.
-
----
 
 ## 🔹 **A Bit of History**
 
