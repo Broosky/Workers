@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Program Name: Workers (C++)                                                                                            //
-//  Author: Jeffrey Bednar                                                                                                 //
-//  Copyright (c) Illusion Interactive, 2011 - 2025.                                                                       //
+// Project: Workers                                                                                                        //
+// Author: Jeffrey Bednar                                                                                                  //
+// Copyright (c) Illusion Interactive, 2011 - 2026.                                                                        //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #ifndef _MAIN_H_
 #define _MAIN_H_
