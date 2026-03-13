@@ -11,10 +11,10 @@ This is a proof-of-concept app for the [Gatherers-Legacy](https://github.com/Bro
 
 ## 🔹 Key Features
 
-- Early Concept
-  A basic implementation of the resource gathering mechanic with minimal AI logic, much improved upon in Gatherers-Legacy.
+- **Early Concept**  
+  A basic implementation of the resource gathering mechanic with minimal AI logic, much improved upon in **Gatherers-Legacy**.
 
-- Basic Traversal
+- **Basic Traversal**  
   Implements programmatic destinations, using basic linear algebra to move units along paths.
 
 ## 🔹 A Bit of History
