@@ -9,7 +9,7 @@ This is a proof-of-concept app for the [Gatherers-Legacy](https://github.com/Bro
 
 ![Demo](Workers.gif)
 
-## 🔹 Key Features
+## 🔹 Features
 
 - **Early Concept**  
   A basic implementation of the resource gathering mechanic with minimal AI logic, much improved upon in **Gatherers-Legacy**.
